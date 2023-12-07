@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/retire100-hackathon/static/css/main.e1eba9eb.css",
-    "main.js": "/retire100-hackathon/static/js/main.1ead7639.js",
-    "static/js/787.8a60ed16.chunk.js": "/retire100-hackathon/static/js/787.8a60ed16.chunk.js",
-    "index.html": "/retire100-hackathon/index.html",
-    "main.e1eba9eb.css.map": "/retire100-hackathon/static/css/main.e1eba9eb.css.map",
-    "main.1ead7639.js.map": "/retire100-hackathon/static/js/main.1ead7639.js.map",
-    "787.8a60ed16.chunk.js.map": "/retire100-hackathon/static/js/787.8a60ed16.chunk.js.map"
+    "main.css": "/Frontend/static/css/main.e1eba9eb.css",
+    "main.js": "/Frontend/static/js/main.e3dc5f34.js",
+    "static/js/787.8a60ed16.chunk.js": "/Frontend/static/js/787.8a60ed16.chunk.js",
+    "index.html": "/Frontend/index.html",
+    "main.e1eba9eb.css.map": "/Frontend/static/css/main.e1eba9eb.css.map",
+    "main.e3dc5f34.js.map": "/Frontend/static/js/main.e3dc5f34.js.map",
+    "787.8a60ed16.chunk.js.map": "/Frontend/static/js/787.8a60ed16.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e1eba9eb.css",
-    "static/js/main.1ead7639.js"
+    "static/js/main.e3dc5f34.js"
   ]
 }
